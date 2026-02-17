@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Welcome</string>
+    <string name="text1">Fill out the form below</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="text2">Enter your email and password</string>
+    <string name="text3">Forgot your password?</string>
+    <string name="text4">Let\'s Get Start</string>
+    <string name="text5">Enter your password</string>
+    <string name="text6">Welcome to the Future</string>
+</resources>
